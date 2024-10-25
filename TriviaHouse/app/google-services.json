@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "196986458539",
+    "project_id": "triviahouse-7d0c8",
+    "storage_bucket": "triviahouse-7d0c8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196986458539:android:bc639f2024d4f3e12e02ee",
+        "android_client_info": {
+          "package_name": "com.smithnielson.triviahouse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApgMBnDkFRYXdk9OQFusVoHwK-y6buVzg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
